@@ -1,6 +1,6 @@
 # AnimatableTabBarItem
 
-## Create animatable tar bar item
+## Create an animatable tab bar item
 
 ```swift
 func playBounceAnimation(_ icon: UIImageView)
